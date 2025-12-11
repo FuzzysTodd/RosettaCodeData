@@ -3,5 +3,3 @@ category:
 - Classic CS problems and programs
 from: http://rosettacode.org/wiki/Dining_philosophers
 note: Concurrency
-requires:
-- Concurrency

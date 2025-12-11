@@ -4,5 +4,3 @@ category:
 - Geometry
 from: http://rosettacode.org/wiki/Catmull–Clark_subdivision_surface
 note: 3D
-requires:
-- Graphics
