@@ -4,5 +4,3 @@ category:
 - Recursion
 from: http://rosettacode.org/wiki/Fractal_tree
 note: Fractals
-requires:
-- Graphics

@@ -3,5 +3,3 @@ category:
 - Recursion
 from: http://rosettacode.org/wiki/Y_combinator
 note: Classic CS problems and programs
-requires:
-- First class functions

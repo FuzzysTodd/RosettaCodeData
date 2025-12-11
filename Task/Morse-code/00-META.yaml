@@ -3,5 +3,3 @@ category:
 - Temporal media
 from: http://rosettacode.org/wiki/Morse_code
 note: Sound
-requires:
-- Sound

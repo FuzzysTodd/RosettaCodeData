@@ -1,5 +1,3 @@
 ---
 from: http://rosettacode.org/wiki/GUI_component_interaction
 note: GUI
-requires:
-- Graphics
